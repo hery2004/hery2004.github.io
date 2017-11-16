@@ -5,3 +5,7 @@ npm-debug.log
 */.DS_Store
 */*/.DS_Store
 *.sh
+.idea/modules.xml
+.idea/myaitrade.github.io.iml
+.idea/vcs.xml
+.idea/workspace.xml
