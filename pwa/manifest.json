@@ -1,7 +1,7 @@
 {
-  "name": "Hux Blog",
-  "short_name": "Hux Blog",
-  "description": "About an engineer & designer who loves web.",
+  "name": "AI Trade",
+  "short_name": "AI Trade",
+  "description": "Software for Trader",
   "icons": [{
     "src": "icons/128.png",
     "sizes": "128x128",

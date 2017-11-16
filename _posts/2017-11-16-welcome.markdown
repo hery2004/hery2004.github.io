@@ -4,19 +4,13 @@ title:        "Make the Best Artificial Intelligence Trading Software"
 subtitle:     "AI Trade"
 date:         2017-11-16 12:00:00
 author:       "Inverseware"
-header-img:   "img/in-post/post-eleme-pwa/eleme-at-io.jpg"
+header-img:   "img/home_bg.jpg"
 header-mask:  0.3
 catalog:      true
-multilingual: true
+multilingual: false
 tags:
     - About
 ---
-
-<!-- Chinese Version -->
-<div class="zh post-container">
-    {% capture about_zh %}{% include about/zh.md %}{% endcapture %}
-    {{ about_zh | markdownify }}
-</div>
 
 <!-- English Version -->
 <div class="en post-container">
