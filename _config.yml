@@ -1,7 +1,7 @@
 # Site settings
 title: AI Trade
-SEOTitle: AI交易 | AI Trade
-header-img: img/home-bg.jpg
+SEOTitle: AI Trade
+header-img: img/home_bg.jpg
 email: admin@inverseware.com
 description: "Best Artificial Intelligence Trading Software"
 keyword: "AI,Trade,Artificial Intelligence,Option,Delta,Gamma,Theta"
@@ -60,8 +60,8 @@ kramdown:
 # ba_track_id: [your track id]
 
 # Google Analytics
-#ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
-#ga_domain: huangxuan.me
+#ga_track_id: '[your track id]'            # Format: UA-xxxxxx-xx
+#ga_domain: ai.yueguba.com
 
 
 
@@ -77,12 +77,9 @@ featured-tags: true                     # whether or not using Feature-Tags
 featured-condition-size: 1              # A tag will be featured if the size of it is more than this condition value
 
 
-
 # Progressive Web Apps
 chrome-tab-theme-color: "#000000"
 service-worker: true
-
-
 
 # Friends
 #friends: [
