@@ -18,8 +18,7 @@ We now offer standard version for $4.99 that provides you with great new feature
 - Discover function to find the stocks that are near the reversal pivotal point.
 
 ##### Links
-
--  View On App Store
+-  [View On App Store][0]
 
 
 [1]: http://itunes.apple.com/us/app/id1228960496
