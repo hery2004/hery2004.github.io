@@ -1,7 +1,7 @@
 ---
 layout:       post
-title:        "Make the Best Artificial Intelligence Trading Software"
-subtitle:     "AI Trade"
+title:        "做最好的人工智能交易软件"
+subtitle:     "AI交易的诞生"
 date:         2017-11-16 12:00:00
 author:       "Inverseware"
 header-img:   "img/home_bg.jpg"
@@ -12,8 +12,8 @@ tags:
     - About
 ---
 
-<!-- English Version -->
-<div class="en post-container">
-    {% capture about_en %}{% include about/en.md %}{% endcapture %}
-    {{ about_en | markdownify }}
+<!-- Chinese Version -->
+<div class="zh post-container">
+    {% capture about_zh %}{% include about/zh.md %}{% endcapture %}
+    {{ about_zh | markdownify }}
 </div>

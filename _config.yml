@@ -1,11 +1,11 @@
 # Site settings
-title: AI Trade
-SEOTitle: AI Trade
+title: AI交易
+SEOTitle: AI交易
 header-img: img/home_bg.jpg
 email: admin@inverseware.com
-description: "Best Artificial Intelligence Trading Software"
+description: "做最好的人工智能交易软件"
 keyword: "AI,Trade,Artificial Intelligence,Option,Delta,Gamma,Theta"
-url: "https://ai.yueguba.com"              # your host, for absolute URL
+url: "https://aic.yueguba.com"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 
