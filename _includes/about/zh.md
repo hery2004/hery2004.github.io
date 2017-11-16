@@ -15,6 +15,6 @@
 
 ##### 下载地址
 
--  [查看 App Store][0]
+-  [查看 App Store][1]
 
 [1]: http://itunes.apple.com/us/app/id1228960496
