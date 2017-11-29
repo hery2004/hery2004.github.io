@@ -11,8 +11,12 @@ tags:
     - 帮助文档
 ---
 
-<!-- Chinese Version -->
-<div class="zh post-container">
-    {% capture about_zh %}{% include help/three.md %}{% endcapture %}
-    {{ about_zh | markdownify }}
-</div>
+> 期权中的三体世界
+
+在期权的世界里
+
+##### 下载地址
+
+-  [查看 App Store][1]
+
+[1]: http://itunes.apple.com/us/app/id1228960496
