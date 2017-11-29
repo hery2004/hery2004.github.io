@@ -1,5 +1,5 @@
 ---
-layout:       post
+layout:       help
 title:        "期权中的三体世界"
 subtitle:     "AI交易的诞生"
 date:         2017-11-29 12:00:00
