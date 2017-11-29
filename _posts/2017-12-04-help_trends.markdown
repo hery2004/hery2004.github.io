@@ -1,7 +1,7 @@
 ---
 layout:       help
-title:        "期权中的Greek"
-subtitle:     "AI交易的诞生"
+title:        "股票的趋势理论"
+subtitle:     "顺势而为"
 date:         2017-12-04 12:00:00
 catalog:      true
 multilingual: false
@@ -9,11 +9,11 @@ tags:
     - 帮助文档
 ---
 
-> 查看K线和日分时图
 
-在期权的世界里
+## 股票的趋势理论
 
-##### 下载地址
+
+
 
 -  [查看 App Store][1]
 
