@@ -93,7 +93,7 @@ tags:
 <img src="{{ site.baseurl }}/img/three/three_same_strike.png" alt="财报" class="inline"/>
 通过上图可以评估三体对于不同到期日，相同行权价的期权的影响。
 
--  [查看 App Store][1]
+-  [从App Store上下载本软件][1]
 
 [1]: http://itunes.apple.com/us/app/id1228960496
 
