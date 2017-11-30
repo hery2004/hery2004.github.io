@@ -33,7 +33,7 @@ tags:
 从这个图可以看出，期权的时间价值的损失会随着行权日期的到来变得越来越大，这也就是为什么对于临近行权日期的末日期权，你买了看涨期权，明明股票也上涨了，但是你的看涨期权却还是下跌了，
 因为时间价值的损失大大的抵消了正股上涨的影响。
 
-<img src="{{ site.baseurl }}/img/three/three_tsla.jpg" alt="时间价值的损失" class="inline"/>
+<img src="{{ site.baseurl }}/img/three/three_tsla.png" alt="时间价值的损失" class="inline"/>
 
 
 ### 正股涨跌
