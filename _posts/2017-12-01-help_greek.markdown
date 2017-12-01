@@ -1,7 +1,7 @@
 ---
 layout:       help
 title:        "期权的Greek技术指标"
-subtitle:     ""
+subtitle:     "综合运用希腊字母的力量"
 date:         2017-12-01 12:00:00
 catalog:      true
 multilingual: false
