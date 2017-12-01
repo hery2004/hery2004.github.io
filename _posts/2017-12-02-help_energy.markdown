@@ -59,6 +59,7 @@ tags:
 <img src="{{ site.baseurl }}/img/dashboard/hl_report.png" alt="" class="inline"/>
 
 上图是一个统计图。从此图可以看出，股票的最高价和最低价大部分出现在9：30到10：00之间。也就是这段时间交易最活跃，股价都会在这段时间有所表现。
+另一个侧面也反映了股票往往高开低走或者低开高走的特性。
 
 -  [从App Store上下载本软件][1]
 
