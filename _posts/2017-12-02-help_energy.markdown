@@ -15,6 +15,6 @@ tags:
 
 
 
--  [查看 App Store][1]
+-  [从App Store上下载本软件][1]
 
 [1]: http://itunes.apple.com/us/app/id1228960496
