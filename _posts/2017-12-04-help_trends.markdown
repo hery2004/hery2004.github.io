@@ -77,7 +77,7 @@ tags:
 
 <img src="{{ site.baseurl }}/img/trends/trends.png" alt="" class="inline"/>
 
-通过屏幕右上角的展开按钮可以展开日K线图，用户选择关键点，可以查看发生关键点附近交易日时，股票的表现。
+通过屏幕右上角的展开按钮可以展开日K线图，用户选择关键点，可以查看发生在关键点附近交易日时股票的表现。
 
 <img src="{{ site.baseurl }}/img/trends/trends_detail.png" alt="" class="inline"/>
 
