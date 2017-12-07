@@ -14,16 +14,16 @@ tags:
 
 《股票大作手操盘术》是美国投资领域的经典著作，首次出版于1940年，作者杰西·利弗莫尔是一位华尔街传奇人物，他是一位数十年征战于证券市场的实践者，写的又完全是自己的实践经验和教训，
 既讲解了他的实用理论，又介绍了具体做法。
-接下来，简单介绍一下他的趋势理论。
+
 
 ### 上升趋势中的回落、恢复、转向
 
-1. <img src="{{ site.baseurl }}/img/trends/1.jpeg" alt="" class="inline"/>
+<img src="{{ site.baseurl }}/img/trends/1.jpeg" alt="" class="inline"/>
 
 按照利弗莫尔的6点转向规则，只有当市场当前价格回落到距离上升趋势最高点6个点以上后，才说明市场开始自然回撤，从此要把行情数据记录到自然回撤栏中。
 在上升趋势的最高点下标两条红线，它是利弗莫尔所说的关键点之一。
 
-2. <img src="{{ site.baseurl }}/img/trends/2.jpeg" alt="" class="inline"/>
+<img src="{{ site.baseurl }}/img/trends/2.jpeg" alt="" class="inline"/>
 
 一旦市场从自然回撤阶段的最低点起向上回升的幅度达到6点，则判断市场已经脱离了自然回撤状态，进入自然回升状态或者上升趋势恢复。
 之前自然回撤栏最后一个数字，就是自然回撤阶段的最低价，这是利弗莫尔所说的另一个关键点。
@@ -36,12 +36,12 @@ tags:
 
 ### 下降趋势的回升、恢复、转向
 
-3. <img src="{{ site.baseurl }}/img/trends/3.jpeg" alt="" class="inline"/>
+<img src="{{ site.baseurl }}/img/trends/3.jpeg" alt="" class="inline"/>
 
 按照利弗莫尔的6点转向规则，仅当市场当前价格回升到距离下降趋势的最低点6个点以上后，才说明市场开始自然回升，从此要把行情数据记录到自然回升栏中。
 下降趋势的前期最低点，现在成了市场下方的标志性水平——利弗莫尔所说的关键点之一。
 
-4. <img src="{{ site.baseurl }}/img/trends/4.jpeg" alt="" class="inline"/>
+<img src="{{ site.baseurl }}/img/trends/4.jpeg" alt="" class="inline"/>
 
 一旦市场从自然回升阶段的最高点向下回落的幅度达到6点时，则判断市场已经脱离自然回升状态，进入自然回撤状态或者下降趋势恢复。
 之前自然回升栏的最后一个数字就是自然回升阶段的最高点，这是利弗莫尔所说的另一个关键点。
@@ -52,24 +52,25 @@ tags:
 
 ### 趋势进入调整阶段后，进一步判断趋势逆转的3点突破规则
 
-5. <img src="{{ site.baseurl }}/img/trends/5.jpeg" alt="" class="inline"/>
+<img src="{{ site.baseurl }}/img/trends/5.jpeg" alt="" class="inline"/>
 在自然回升栏内标记的最后一个价格就是调整阶段价格区间的最高点，如果后来市场上涨超过了该水平，且超越的幅度达到3点或更多，则说明底部形态已经形成，市场已经从下降趋势逆转为上升趋势。
 
-6. <img src="{{ site.baseurl }}/img/trends/6.jpeg" alt="" class="inline"/>
+<img src="{{ site.baseurl }}/img/trends/6.jpeg" alt="" class="inline"/>
 在自然回撤栏内用红线标记的最后一个价格就是调整阶段价格区间的最低点，如果后来市场跌破了该水平，且跌破的幅度达到3点或更多，则说明顶部形态已经形成，市场从上升趋势逆转为下降趋势。
 
-7. <img src="{{ site.baseurl }}/img/trends/7.jpeg" alt="" class="inline"/>
-   <img src="{{ site.baseurl }}/img/trends/11.jpeg" alt="" class="inline"/>
+<img src="{{ site.baseurl }}/img/trends/7.jpeg" alt="" class="inline"/>
 在下降趋势持续过程中，间断地发生回升行情，趋势进入调整阶段。在这种情况下，首先，我们要关注下降趋势恢复的信号；其次，要关注下降趋势逆转为上升趋势的信号。
+<img src="{{ site.baseurl }}/img/trends/11.jpeg" alt="" class="inline"/>
 
-8. <img src="{{ site.baseurl }}/img/trends/8.jpeg" alt="" class="inline"/>
-   <img src="{{ site.baseurl }}/img/trends/10.jpeg" alt="" class="inline"/>
+
+<img src="{{ site.baseurl }}/img/trends/8.jpeg" alt="" class="inline"/>
 在上升趋势持续过程中，间断地发生回升行情，趋势进入调整阶段。在这种情况下，首先，我们要关注上升趋势恢复的信号；其次，要关注上升趋势逆转为下降趋势的信号。
+<img src="{{ site.baseurl }}/img/trends/10.jpeg" alt="" class="inline"/>
 
 ## 软件实现
 
 本软件提供了利弗莫尔趋势图表来将杰西利弗莫尔的的趋势理论电子化，通过股票价格的历史表现去发现股票的关键点。
-而根据股票的关键点将股票的趋势分为：下降趋势，自然回落，上升趋势，自然回升。
+
 股票关键点的定义并非来自于股票大作手操盘术中的6%的幅度，而是根据股票的历史价格通过回溯的方法找到的一个最佳幅度。
 
 <img src="{{ site.baseurl }}/img/trends/trends.png" alt="" class="inline"/>
