@@ -2,7 +2,7 @@
 layout:       post
 title:        "买期权就像赌大小一样，赢的概率是50%吗？"
 subtitle:     "错！错！错！"
-date:         2017-12-20 12:00:00
+date:         2017-12-21 12:00:00
 author:       "Inverseware"
 header-img:   "img/home_bg.jpg"
 header-mask:  0.3
