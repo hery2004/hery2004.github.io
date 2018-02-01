@@ -1,5 +1,5 @@
 ---
-layout:       help
+layout:       hwr
 title:        "汉字冲顶"
 subtitle:     "汉字来冲顶，金币任你领 ！"
 date:         2018-02-01 12:00:00
@@ -44,6 +44,6 @@ tags:
 
 有任何的疑问和建议，可以发信：admin@inverseware.com
 
--  [从App Store上下载本软件][1]
+-  [从App Store 下载本软件][1]
 
 [1]: http://itunes.apple.com/us/app/id1228960496
